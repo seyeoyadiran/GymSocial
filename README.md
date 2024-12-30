@@ -1,1 +1,1 @@
-# Social-FrontEnd
+# GymSocial
